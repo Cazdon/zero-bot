@@ -24,7 +24,7 @@ client.on('message', message => {
 	}
 })
 
-// dotenv
+// dotenv - used for hiding the bot token
 const dotenv = require('dotenv');
 
 dotenv.config();
