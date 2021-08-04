@@ -1,0 +1,18 @@
+{
+  "name": "crobot",
+  "version": "1.0.0",
+  "description": "A Discord Bot for the Crob server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cazdon",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslist": "^1.0.0-beta.1"
+  }
+}
